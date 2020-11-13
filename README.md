@@ -5,7 +5,7 @@
 ## Experiências
 #
 2020 Projeto Integrado I do curso de tecnologia em Análise e Desenvolvimento de Sistemas: Uso de software de Business Intelligence como auxílio à área de
-controladoria do comércio de Castanhal [Pdf](./Certificados/Projeto_Integrado_I_Tads)
+controladoria do comércio de Castanhal [Pdf](./Certificados/Projeto_Integrado_I_Tads.pdf)
 
 ## Cursos
 #

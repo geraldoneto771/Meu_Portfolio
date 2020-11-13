@@ -11,3 +11,6 @@
 #
 ## Outros Interesses
 #
+* Javascript
+* PHP
+* C#

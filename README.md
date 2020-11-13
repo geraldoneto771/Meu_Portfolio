@@ -2,7 +2,11 @@
 # 
 
 
-## Experiências 
+## Experiências
+#
 ## Cursos
+#
 ## Leituras
+#
 ## Outros Interesses
+#

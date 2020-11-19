@@ -20,6 +20,7 @@ controladoria do comércio de Castanhal [Pdf](./Projetos_Faculdade_Tads/Projeto_
 ## Eventos / Semanas de tecnologias
 #
 2019 [2º Data Tech Day](./Certificados/Data_Tech_Day_do_SQL_Norte-2_Edição.pdf)
+
 2019 [XXXIX Congresso da Sociedade Brasileira de Computação (CSBC 2019)](./Certificados/Congresso_SBC_2019.PDF)
 
 ## Leituras
